@@ -1,0 +1,16 @@
+Features:
+- version control
+- collaboration
+
+Git
+- actual version control software
+
+GitHub
+- web service 
+- 'social network for git managed products'
+
+Repository / Repo
+
+Commit - save. 
+
+New branch 
