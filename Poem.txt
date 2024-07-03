@@ -12,5 +12,6 @@ GitHub
 Repository / Repo
 
 Commit - save. 
+- can add notes to each commit
 
 New branch 
